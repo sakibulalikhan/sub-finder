@@ -9,15 +9,21 @@ Sub-Finderr depends on the requests, sys python modules.
 These dependencies can be installed using the requirements file:
 
 #### Installation on Windows:
->c:\python310\python.exe -m pip install -r requirements.txt
+```
+c:\python310\python.exe -m pip install -r requirements.txt
+```
 
 #### Installation on Linux
->sudo pip install -r requirements.txt
-
+```
+sudo pip install -r requirements.txt
+```
 # How to use?
 
-> python sub-finder.py
-> Enter domain: exdomain.com
+```
+ $python sub-finder.py
+  Enter domain: exdomain.com
+ 
+ ```
 
 # License
 Sub-Finder is licensed under the MIT license. take a look at the [LICENSE](https://github.com/sakibulalikhan/sub-finder/blob/main/LICENSE) for more information.
