@@ -17,7 +17,7 @@ These dependencies can be installed using the requirements file:
 # How to use?
 
 > python sub-finder.py
->> Enter domain: exdomain.com
+> Enter domain: exdomain.com
 
 # License
 Sub-Finder is licensed under the MIT license. take a look at the [LICENSE](https://github.com/sakibulalikhan/sub-finder/blob/main/LICENSE) for more information.
