@@ -16,7 +16,7 @@ print(r"""
 print("\n****************************************************************")
 print("\n* Copyright of Sakibul Ali Khan.                               *")
 print("\n* Twitter: https://twitter.com/sakibulalikhan                  *")
-print("\n* Linkedin: https://www.linkedin.com/in/sakibulalikhan/        *")
+print("\n* Linkedin: https://www.linkedin.com/in/sakibulalikhan        *")
 print("\n****************************************************************")
 print("\n")
 
