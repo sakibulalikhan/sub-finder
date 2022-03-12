@@ -4,7 +4,7 @@ Passive Recon - Subdomain Enumeration With sub-finder.
 ![image](https://user-images.githubusercontent.com/75080608/158007978-4c326bb3-1155-4517-8414-0615664c886e.png)
 
 # Dependencies:
-Sub-Finderr depends on the requests, sys python modules.
+Sub-Finder depends on the requests, sys python modules.
 
 These dependencies can be installed using the requirements file:
 
